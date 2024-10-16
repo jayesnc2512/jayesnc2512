@@ -26,7 +26,6 @@ Feel free to connect with me on [GitHub](https://github.com/jayesnc2512) or [Dev
 <br><br>
 > ## 💼 Experiences
 <br>
-
 #### [Full Stack Intern @Pirates Alert](https://piratesalert.com)
 <sub>Dec 2023 - Present | Hybrid</sub>
 🕷️ Led web scraping initiatives, crawling 5000-7000 links per execution
@@ -41,7 +40,6 @@ Feel free to connect with me on [GitHub](https://github.com/jayesnc2512) or [Dev
 
 > ## 🛠️ Projects
 <br>
-
 ### [Shieldify](https://github.com/jayesnc2512/HSE_Shieldify)
 <sub>React | ChakraUI | MongoDB | NodeJs | Python | RTSP | React Native | YOLOv8</sub>
 🦺 Real-time safety verification system with 95%+ accuracy in PPE detection
