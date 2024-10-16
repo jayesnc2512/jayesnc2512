@@ -25,7 +25,7 @@
 Feel free to connect with me on [GitHub](https://github.com/jayesnc2512) or [Devfolio](https://devfolio.co/@jnc)!
 <br><br>
 > ## 💼 Experiences
-<br>
+
 #### [Full Stack Intern @Pirates Alert](https://piratesalert.com)
 <sub>Dec 2023 - Present | Hybrid</sub>
 🕷️ Led web scraping initiatives, crawling 5000-7000 links per execution
