@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Science-orange" alt="Education"/>
 </div>
 
-
+- 📝 Visit my notion portfolio [Jayesh Chaudhari](https://www.notion.so/Jayesh-Chaudhari-Tech-Innovator-Full-Stack-Developer-3d4988efdd68420ab4cb3dac3eea3f35)
+- 📖 Visit our Team's notion [Team Maverick/Team BOKA](https://tan-promotion-01f.notion.site/Team-Mavericks-141deac00565809880d3c3719f77b649?pvs=74)
 - 🎓 Studying at [Fr. Conceicao Rodrigues Institute of Technology](https://fcrit.ac.in)
 - 📊 CGPA: 9.24 | SGPA: 9.57
 - 🏆 Winner at Spark-a-thon 2024
